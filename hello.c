@@ -1,7 +1,7 @@
 /*Gomez Hernandez Hugo Santiago
 Práctica 6
 CP*/
-#include <studio.h>
+#include <stdio.h>
 
 int main() {
   printf("Hello, World!\n");  //Imprime el mensaje de hola
